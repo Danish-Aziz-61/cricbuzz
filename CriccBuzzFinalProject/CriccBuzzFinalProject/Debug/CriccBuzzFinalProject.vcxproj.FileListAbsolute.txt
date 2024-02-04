@@ -1,0 +1,3 @@
+C:\Users\Mr.OrangePotato\source\repos\CriccBuzzFinalProject\CriccBuzzFinalProject\Debug\CriccBuzzFinalProject.vcxproj.AssemblyReference.cache
+C:\Users\Mr.OrangePotato\source\repos\CriccBuzzFinalProject\CriccBuzzFinalProject\Debug\CriccBuzzFinalProject.MyForm1.resources
+C:\Users\Mr.OrangePotato\source\repos\CriccBuzzFinalProject\CriccBuzzFinalProject\Debug\CriccBuzzFinalProject.vcxproj.GenerateResource.cache
